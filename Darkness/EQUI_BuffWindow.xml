@@ -1192,6 +1192,91 @@
 		<NoWrap>true</NoWrap>
 	</Label>
 	
+	<Button item="BW_Buff28_Button">
+		<ScreenID>Buff28</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<ButtonDrawTemplate>
+			<Normal>BlueIconBackground</Normal>
+			<NormalDecal>BuffIcons</NormalDecal>
+		</ButtonDrawTemplate>
+		<DecalOffset>
+			<X>15</X>
+			<Y>0</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>17</CX>
+			<CY>17</CY>
+		</DecalSize>
+	</Button>
+	<Label item="BW_Buff28">
+		<ScreenID>Buff28Label</ScreenID>
+		<EQType>528</EQType>
+		<Font>2</Font>
+		<RelativePosition>true</RelativePosition>
+		<Text></Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<NoWrap>true</NoWrap>
+	</Label>
+	<Label item="BW_Buff28Number">
+		<ScreenID>Buff28No</ScreenID>
+		<Font>2</Font>
+		<RelativePosition>true</RelativePosition>
+		<Text>29.</Text>
+		<TextColor>
+			<R>0</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<NoWrap>true</NoWrap>
+	</Label>
+	
+	<Button item="BW_Buff29_Button">
+		<ScreenID>Buff29</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<ButtonDrawTemplate>
+			<Normal>BlueIconBackground</Normal>
+			<NormalDecal>BuffIcons</NormalDecal>
+		</ButtonDrawTemplate>
+		<DecalOffset>
+			<X>15</X>
+			<Y>0</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>17</CX>
+			<CY>17</CY>
+		</DecalSize>
+	</Button>
+	<Label item="BW_Buff29">
+		<ScreenID>Buff29Label</ScreenID>
+		<EQType>529</EQType>
+		<Font>2</Font>
+		<RelativePosition>true</RelativePosition>
+		<Text></Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<NoWrap>true</NoWrap>
+	</Label>
+	<Label item="BW_Buff29Number">
+		<ScreenID>Buff29No</ScreenID>
+		<Font>2</Font>
+		<RelativePosition>true</RelativePosition>
+		<Text>30.</Text>
+		<TextColor>
+			<R>0</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<NoWrap>true</NoWrap>
+	</Label>
+	
+	
 
 
 
@@ -1238,6 +1323,8 @@
 		<Pieces>BW_Buff25_Button</Pieces>
 		<Pieces>BW_Buff26_Button</Pieces>
 		<Pieces>BW_Buff27_Button</Pieces>
+		<Pieces>BW_Buff28_Button</Pieces>
+		<Pieces>BW_Buff29_Button</Pieces>
 	</TileLayoutBox>
 	
 	<TileLayoutBox item="BW_Labels">
@@ -1283,6 +1370,8 @@
 		<Pieces>BW_Buff25</Pieces>
 		<Pieces>BW_Buff26</Pieces>
 		<Pieces>BW_Buff27</Pieces>
+		<Pieces>BW_Buff28</Pieces>
+		<Pieces>BW_Buff29</Pieces>
 	</TileLayoutBox>
 	
 	<TileLayoutBox item="BW_Numbers">
@@ -1327,6 +1416,9 @@
 		<Pieces>BW_Buff25Number</Pieces>
 		<Pieces>BW_Buff26Number</Pieces>
 		<Pieces>BW_Buff27Number</Pieces>
+		<Pieces>BW_Buff28Number</Pieces>
+		<Pieces>BW_Buff29Number</Pieces>
+
 	</TileLayoutBox>
 	
 	<Screen item="BuffWindow">
@@ -1338,7 +1430,7 @@
 		</Location>
 		<Size>
 			<CX>191</CX>
-			<CY>514</CY>
+			<CY>554</CY>
 		</Size>
 		<Style_Transparent>true</Style_Transparent>
 		<DrawTemplate>WDT_RoundedNoTitle</DrawTemplate>
