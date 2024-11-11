@@ -3822,8 +3822,8 @@
 		<AutoStretch>true</AutoStretch>
 		<TopAnchorOffset>2</TopAnchorOffset>
 		<BottomAnchorOffset>0</BottomAnchorOffset>
-		<LeftAnchorOffset>20</LeftAnchorOffset>
-		<RightAnchorOffset>20</RightAnchorOffset>	
+		<LeftAnchorOffset>1</LeftAnchorOffset>
+		<RightAnchorOffset>1</RightAnchorOffset>	
 		<TopAnchorToTop>true</TopAnchorToTop>
 		<BottomAnchorToTop>false</BottomAnchorToTop>
 		<LeftAnchorToLeft>true</LeftAnchorToLeft>
@@ -3861,8 +3861,8 @@
 			<Y>230</Y>
 		</Location>
 		<Size>
-			<CX>525</CX>
-			<CY>53</CY>
+			<CX>470</CX>
+			<CY>50</CY>
 		</Size>
 		<DrawTemplate>WDT_RoundedNoTitle</DrawTemplate>
 		<Style_Closebox>true</Style_Closebox>
