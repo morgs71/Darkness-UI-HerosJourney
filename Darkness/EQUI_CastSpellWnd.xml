@@ -1,7 +1,7 @@
 <?xml version = "1.0"?>
 <XML ID = "EQInterfaceDefinitionLanguage">
 	<Schema xmlns = "EverQuestData" xmlns:dt = "EverQuestDataTypes"/>
-<!-- Orignal work by Mafoo, modified by Novawolf. Updated by marcin for oow . updated & modified by wolfling -->
+
 
 
 <!-- Spell 1 -->
@@ -14,7 +14,7 @@
 			<Y>0</Y>
 		</Location>
 		<Size>
-			<CX>80</CX>
+			<CX>70</CX>
 			<CY>40</CY>
 		</Size>
 		<SpellGemDrawTemplate>
@@ -58,11 +58,11 @@
 		<ScreenID>CSPW_Spell1</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>81</X>
+			<X>71</X>
 			<Y>0</Y>
 		</Location>
 		<Size>
-			<CX>80</CX>
+			<CX>70</CX>
 			<CY>40</CY>
 		</Size>
 		<SpellGemDrawTemplate>
@@ -79,7 +79,7 @@
 		<Font>1</Font>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>111</X>
+			<X>101</X>
 			<Y>3</Y>
 		</Location>
 		<Size>
@@ -105,11 +105,11 @@
 		<ScreenID>CSPW_Spell2</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>162</X>
+			<X>142</X>
 			<Y>0</Y>
 		</Location>
 		<Size>
-			<CX>80</CX>
+			<CX>70</CX>
 			<CY>40</CY>
 		</Size>
 		<SpellGemDrawTemplate>
@@ -127,7 +127,7 @@
 		<Font>1</Font>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>192</X>
+			<X>172</X>
 			<Y>3</Y>
 		</Location>
 		<Size>
@@ -154,11 +154,11 @@
 		<ScreenID>CSPW_Spell3</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>243</X>
+			<X>213</X>
 			<Y>0</Y>
 		</Location>
 		<Size>
-			<CX>80</CX>
+			<CX>70</CX>
 			<CY>40</CY>
 		</Size>
 		<SpellGemDrawTemplate>
@@ -176,7 +176,7 @@
 		<Font>1</Font>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>273</X>
+			<X>243</X>
 			<Y>3</Y>
 		</Location>
 		<Size>
@@ -202,11 +202,11 @@
 		<ScreenID>CSPW_Spell4</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>324</X>
+			<X>284</X>
 			<Y>0</Y>
 		</Location>
 		<Size>
-			<CX>80</CX>
+			<CX>70</CX>
 			<CY>40</CY>
 		</Size>
 		<SpellGemDrawTemplate>
@@ -224,7 +224,7 @@
 		<Font>1</Font>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>354</X>
+			<X>314</X>
 			<Y>3</Y>
 		</Location>
 		<Size>
@@ -251,11 +251,11 @@
 		<ScreenID>CSPW_Spell5</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>405</X>
+			<X>355</X>
 			<Y>0</Y>
 		</Location>
 		<Size>
-			<CX>80</CX>
+			<CX>70</CX>
 			<CY>40</CY>
 		</Size>
 		<SpellGemDrawTemplate>
@@ -273,7 +273,7 @@
 		<Font>1</Font>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>435</X>
+			<X>385</X>
 			<Y>3</Y>
 		</Location>
 		<Size>
@@ -299,11 +299,11 @@
 		<ScreenID>CSPW_Spell6</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>486</X>
+			<X>426</X>
 			<Y>0</Y>
 		</Location>
 		<Size>
-			<CX>80</CX>
+			<CX>70</CX>
 			<CY>40</CY>
 		</Size>
 		<SpellGemDrawTemplate>
@@ -321,7 +321,7 @@
 		<Font>1</Font>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>516</X>
+			<X>556</X>
 			<Y>3</Y>
 		</Location>
 		<Size>
@@ -348,11 +348,11 @@
 		<ScreenID>CSPW_Spell7</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>567</X>
+			<X>497</X>
 			<Y>0</Y>
 		</Location>
 		<Size>
-			<CX>80</CX>
+			<CX>70</CX>
 			<CY>40</CY>
 		</Size>
 		<SpellGemDrawTemplate>
@@ -369,7 +369,7 @@
 		<Font>1</Font>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>597</X>
+			<X>527</X>
 			<Y>3</Y>
 		</Location>
 		<Size>
@@ -389,17 +389,17 @@
 	</Label>
 
 
-<!-- Spell Slot 9, added by marcin for OOW patch -->
+<!-- Spell Slot 9 -->
 
 	<SpellGem item = "CSPW_Spell8">
 		<ScreenID>CSPW_Spell8</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>648</X>
+			<X>568</X>
 			<Y>0</Y>
 		</Location>
 		<Size>
-			<CX>80</CX>
+			<CX>70</CX>
 			<CY>40</CY>
 		</Size>
 		<SpellGemDrawTemplate>
@@ -416,7 +416,7 @@
 		<Font>1</Font>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>678</X>
+			<X>598</X>
 			<Y>3</Y>
 		</Location>
 		<Size>
@@ -435,6 +435,143 @@
 		<Style_Tooltip>false</Style_Tooltip>
 	</Label>
 
+<!-- Spell Slot 10 -->
+
+	<SpellGem item = "CSPW_Spell9">
+		<ScreenID>CSPW_Spell9</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>639</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>70</CX>
+			<CY>40</CY>
+		</Size>
+		<SpellGemDrawTemplate>
+			<Holder>A_BtnPressed</Holder>
+			<Background>A_BtnFlyby</Background>
+			<Highlight>A_SpellGemHighlight</Highlight>
+		</SpellGemDrawTemplate>
+		<SpellIconOffsetX>2</SpellIconOffsetX>
+		<SpellIconOffsetY>8</SpellIconOffsetY>
+	</SpellGem>
+
+	<Label item ="CSPW_Spell9_Name">
+		<ScreenID>CSPW_Spell9_Name</ScreenID>
+		<Font>1</Font>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>669</X>
+			<Y>3</Y>
+		</Location>
+		<Size>
+			<CX>45</CX>
+			<CY>38</CY>
+		</Size>
+		<EQType>138</EQType>
+		<TextColor>
+				<R>255</R>
+				<G>255</G>
+				<B>255</B>
+		</TextColor>
+		<NoWrap>false</NoWrap>
+		<AlignCenter>true</AlignCenter>
+		<AlignRight>false</AlignRight>
+		<Style_Tooltip>false</Style_Tooltip>
+	</Label>
+	
+	<!-- Spell Slot 11 -->
+
+	<SpellGem item = "CSPW_Spell10">
+		<ScreenID>CSPW_Spell10</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>710</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>70</CX>
+			<CY>40</CY>
+		</Size>
+		<SpellGemDrawTemplate>
+			<Holder>A_BtnPressed</Holder>
+			<Background>A_BtnFlyby</Background>
+			<Highlight>A_SpellGemHighlight</Highlight>
+		</SpellGemDrawTemplate>
+		<SpellIconOffsetX>2</SpellIconOffsetX>
+		<SpellIconOffsetY>8</SpellIconOffsetY>
+	</SpellGem>
+
+	<Label item ="CSPW_Spell10_Name">
+		<ScreenID>CSPW_Spell10_Name</ScreenID>
+		<Font>1</Font>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>740</X>
+			<Y>3</Y>
+		</Location>
+		<Size>
+			<CX>45</CX>
+			<CY>38</CY>
+		</Size>
+		<EQType>149</EQType>
+		<TextColor>
+				<R>255</R>
+				<G>255</G>
+				<B>255</B>
+		</TextColor>
+		<NoWrap>false</NoWrap>
+		<AlignCenter>true</AlignCenter>
+		<AlignRight>false</AlignRight>
+		<Style_Tooltip>false</Style_Tooltip>
+	</Label>
+	
+	<!-- Spell Slot 12 -->
+
+	<SpellGem item = "CSPW_Spell11">
+		<ScreenID>CSPW_Spell11</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>781</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>70</CX>
+			<CY>40</CY>
+		</Size>
+		<SpellGemDrawTemplate>
+			<Holder>A_BtnPressed</Holder>
+			<Background>A_BtnFlyby</Background>
+			<Highlight>A_SpellGemHighlight</Highlight>
+		</SpellGemDrawTemplate>
+		<SpellIconOffsetX>2</SpellIconOffsetX>
+		<SpellIconOffsetY>8</SpellIconOffsetY>
+	</SpellGem>
+
+	<Label item ="CSPW_Spell11_Name">
+		<ScreenID>CSPW_Spell11_Name</ScreenID>
+		<Font>1</Font>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>821</X>
+			<Y>3</Y>
+		</Location>
+		<Size>
+			<CX>45</CX>
+			<CY>38</CY>
+		</Size>
+		<EQType>150</EQType>
+		<TextColor>
+				<R>255</R>
+				<G>255</G>
+				<B>255</B>
+		</TextColor>
+		<NoWrap>false</NoWrap>
+		<AlignCenter>true</AlignCenter>
+		<AlignRight>false</AlignRight>
+		<Style_Tooltip>false</Style_Tooltip>
+	</Label>
 
 
 <!-- Spell Book -->
@@ -444,7 +581,7 @@
 		<!--<Font>3</Font>-->
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>730</X>
+			<X>852</X>
 			<Y>0</Y>
 		</Location>
 		<Size>
@@ -473,7 +610,7 @@
 			<Y>25</Y>
 		</Location>
 		<Size>
-			<CX>762</CX>
+			<CX>884</CX>
 			<CY>40</CY>
 		</Size>
 		<Text>Spells</Text>
@@ -494,6 +631,9 @@
 		<Pieces>CSPW_Spell6</Pieces>
 		<Pieces>CSPW_Spell7</Pieces>
 		<Pieces>CSPW_Spell8</Pieces>
+		<Pieces>CSPW_Spell9</Pieces>
+		<Pieces>CSPW_Spell10</Pieces>
+		<Pieces>CSPW_Spell11</Pieces>
 		<Pieces>CSPW_SpellBook</Pieces>
 		<Pieces>CSPW_Spell0_Name</Pieces>
 		<Pieces>CSPW_Spell1_Name</Pieces>
@@ -504,6 +644,10 @@
 		<Pieces>CSPW_Spell6_Name</Pieces>
 		<Pieces>CSPW_Spell7_Name</Pieces>
 		<Pieces>CSPW_Spell8_Name</Pieces>
+		<Pieces>CSPW_Spell9_Name</Pieces>
+		<Pieces>CSPW_Spell10_Name</Pieces>
+		<Pieces>CSPW_Spell11_Name</Pieces>
+
 
 
 	</Screen>
