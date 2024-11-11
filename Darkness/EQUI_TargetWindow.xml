@@ -2224,7 +2224,7 @@
 		<RelativePosition>true</RelativePosition>
 		<Location>
 			<X>0</X>
-			<Y>28</Y>
+			<Y>30</Y>
 		</Location>
 		<Size>
 			<CX>250</CX>
@@ -2422,8 +2422,8 @@
 			<Y>242</Y>
 		</Location>
 		<Size>
-			<CX>762</CX>
-			<CY>45</CY>
+			<CX>880</CX>
+			<CY>50</CY>
 		</Size>
 		<Style_Transparent>false</Style_Transparent>
 		<TooltipReference>Your Current Target</TooltipReference>
