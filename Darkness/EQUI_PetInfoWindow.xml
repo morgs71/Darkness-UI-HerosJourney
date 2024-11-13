@@ -3593,7 +3593,7 @@
 			<Y>160</Y>
 		</Location>
 		<Size>
-			<CX>265</CX>
+			<CX>250</CX>
 			<CY>172</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
@@ -3602,7 +3602,7 @@
 		<Text>Pet Info</Text>
 		<DrawTemplate>WDT_RoundedNoTitle</DrawTemplate>
 		<Style_Titlebar>false</Style_Titlebar>
-		<Style_Closebox>true</Style_Closebox>
+		<Style_Closebox>false</Style_Closebox>
 		<Style_Minimizebox>true</Style_Minimizebox>
 		<Style_Border>false</Style_Border>
 		<Style_Sizable>false</Style_Sizable>
