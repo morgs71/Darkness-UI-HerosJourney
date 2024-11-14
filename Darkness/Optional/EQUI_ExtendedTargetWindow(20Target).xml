@@ -3228,7 +3228,7 @@
 		</Location>
 		<Size>
 			<CX>205</CX>
-			<CY>425</CY>
+			<CY>825</CY>
 		</Size>
 		<Text>Extended Target Window</Text>
 		<Style_VScroll>false</Style_VScroll>
@@ -3301,6 +3301,66 @@
 		<Pieces>ETW_ManaGauge9</Pieces>
 		<Pieces>ETW_HPLabel9</Pieces>
 		<Pieces>ETW_Role9</Pieces>
+		<Pieces>ETW_Gauge10</Pieces>
+		<Pieces>ETW_ManaGauge10</Pieces>
+		<Pieces>ETW_STAGauge10</Pieces>
+		<Pieces>ETW_HPLabel10</Pieces>
+		<Pieces>ETW_HPPercLabel10</Pieces>
+		<Pieces>ETW_Role10</Pieces>
+		<Pieces>ETW_Gauge11</Pieces>
+		<Pieces>ETW_ManaGauge11</Pieces>
+		<Pieces>ETW_STAGauge11</Pieces>
+		<Pieces>ETW_HPLabel11</Pieces>
+		<Pieces>ETW_HPPercLabel11</Pieces>
+		<Pieces>ETW_Role11</Pieces>
+		<Pieces>ETW_Gauge12</Pieces>
+		<Pieces>ETW_ManaGauge12</Pieces>
+		<Pieces>ETW_STAGauge12</Pieces>
+		<Pieces>ETW_HPLabel12</Pieces>
+		<Pieces>ETW_HPPercLabel12</Pieces>
+		<Pieces>ETW_Role12</Pieces>
+		<Pieces>ETW_Gauge13</Pieces>
+		<Pieces>ETW_ManaGauge13</Pieces>
+		<Pieces>ETW_STAGauge13</Pieces>
+		<Pieces>ETW_HPLabel13</Pieces>
+		<Pieces>ETW_HPPercLabel13</Pieces>
+		<Pieces>ETW_Role13</Pieces>
+		<Pieces>ETW_Gauge14</Pieces>
+		<Pieces>ETW_ManaGauge14</Pieces>
+		<Pieces>ETW_STAGauge14</Pieces>
+		<Pieces>ETW_HPLabel14</Pieces>
+		<Pieces>ETW_HPPercLabel14</Pieces>
+		<Pieces>ETW_Role14</Pieces>
+		<Pieces>ETW_Gauge15</Pieces>
+		<Pieces>ETW_ManaGauge15</Pieces>
+		<Pieces>ETW_STAGauge15</Pieces>
+		<Pieces>ETW_HPLabel15</Pieces>
+		<Pieces>ETW_HPPercLabel15</Pieces>
+		<Pieces>ETW_Role15</Pieces>
+		<Pieces>ETW_Gauge16</Pieces>
+		<Pieces>ETW_ManaGauge16</Pieces>
+		<Pieces>ETW_STAGauge16</Pieces>
+		<Pieces>ETW_HPLabel16</Pieces>
+		<Pieces>ETW_HPPercLabel16</Pieces>
+		<Pieces>ETW_Role16</Pieces>
+		<Pieces>ETW_Gauge17</Pieces>
+		<Pieces>ETW_ManaGauge17</Pieces>
+		<Pieces>ETW_STAGauge17</Pieces>
+		<Pieces>ETW_HPLabel17</Pieces>
+		<Pieces>ETW_HPPercLabel17</Pieces>
+		<Pieces>ETW_Role17</Pieces>
+		<Pieces>ETW_Gauge18</Pieces>
+		<Pieces>ETW_ManaGauge18</Pieces>
+		<Pieces>ETW_STAGauge18</Pieces>
+		<Pieces>ETW_HPLabel18</Pieces>
+		<Pieces>ETW_HPPercLabel18</Pieces>
+		<Pieces>ETW_Role18</Pieces>
+		<Pieces>ETW_Gauge19</Pieces>
+		<Pieces>ETW_ManaGauge19</Pieces>
+		<Pieces>ETW_STAGauge19</Pieces>
+		<Pieces>ETW_HPLabel19</Pieces>
+		<Pieces>ETW_HPPercLabel19</Pieces>
+		<Pieces>ETW_Role19</Pieces>
 		<Pieces>ETW_AggroPct0</Pieces>
 		<Pieces>ETW_AggroPct1</Pieces>
 		<Pieces>ETW_AggroPct2</Pieces>
@@ -3311,5 +3371,15 @@
 		<Pieces>ETW_AggroPct7</Pieces>
 		<Pieces>ETW_AggroPct8</Pieces>
 		<Pieces>ETW_AggroPct9</Pieces>
+		<Pieces>ETW_AggroPct10</Pieces>
+		<Pieces>ETW_AggroPct11</Pieces>
+		<Pieces>ETW_AggroPct12</Pieces>
+		<Pieces>ETW_AggroPct13</Pieces>
+		<Pieces>ETW_AggroPct14</Pieces>
+		<Pieces>ETW_AggroPct15</Pieces>
+		<Pieces>ETW_AggroPct16</Pieces>
+		<Pieces>ETW_AggroPct17</Pieces>
+		<Pieces>ETW_AggroPct18</Pieces>
+		<Pieces>ETW_AggroPct19</Pieces>
 	</Screen>
 </XML>
